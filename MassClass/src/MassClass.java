@@ -14,6 +14,7 @@ public class MassClass {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hi!");//Проверка в несения изменений
+		//Обратная проверка...
 
 	}
 
